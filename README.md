@@ -1,4 +1,4 @@
 # hello-word
 rep di prova
 
-Ok aggiungo una riga tando per fare qualcosa
+Ok aggiungo una riga tanto per fare qualcosa
